@@ -1,3 +1,28 @@
+/*
+    Write a C program to implement a basic Student Management System that can handle up to 100 students.
+    The program should support the following features using structures and file handling:
+
+    1. Add a new student (ID, Name, Date of Birth, Blood Group, Total Marks).
+    2. Search for a student by either name or ID.
+    3. Display all students' details.
+    4. Sort and display students by name (alphabetically).
+    5. Sort and display students by ID (numerically).
+    6. Display statistics about total marks (average, maximum, and minimum).
+    7. Save all student data to a file ("students.dat") and load it automatically on startup.
+
+    Requirements:
+    - Use a `Student` structure to store student information.
+    - Use file I/O to persist student data between sessions.
+    - Use functions to modularize tasks (e.g., adding, searching, sorting).
+    - Ensure input/output is clear and user-friendly.
+
+    Note:
+    - You should prevent adding more than 100 students.
+    - For string input (like name or DOB), ensure proper handling of newline characters.
+*/
+
+
+
 #include <stdio.h>
 #include <string.h>
 #define MAX_STUDENTS 100
