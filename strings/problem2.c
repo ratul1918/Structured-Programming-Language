@@ -1,3 +1,16 @@
+/*
+    Write a C program to toggle the case of each character in a given string.
+
+    Requirements:
+    - Define a function `toggleCase(char str[])` that converts:
+        - Lowercase letters ('a' to 'z') to uppercase ('A' to 'Z')
+        - Uppercase letters ('A' to 'Z') to lowercase ('a' to 'z')
+    - In `main()`, prompt the user to enter a string (use `fgets()` to read the string including spaces).
+    - Call `toggleCase()` on the input string.
+    - Display the toggled string.
+*/
+
+
 #include <stdio.h>
 
 void toggleCase(char str[]) {
