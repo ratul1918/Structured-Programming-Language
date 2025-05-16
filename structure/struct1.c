@@ -1,7 +1,25 @@
 #include<stdio.h>
 #include<string.h>
 
-// Structure definition
+/*
+    Write a C program to manage and display information for two persons using a structure.
+
+    Requirements:
+    - Define a structure `person` with the following fields:
+        - name (string)
+        - age (integer)
+        - salary (float)
+        - blood group (string)
+    - Create two structure variables: `person1` and `person2`.
+    - Take input from the user for both persons:
+        - Name
+        - Age
+        - Salary
+        - Blood group
+    - Create a function `display()` that takes a structure as argument and displays the details.
+    - Call `display()` to show the details of both persons.
+*/
+
 struct person {
     char name[50];
     int age;
@@ -21,9 +39,7 @@ void display(struct person p) {
 int main() {
     struct person person1, person2;
 
- 
     printf("Enter info for person1\n");
-    
     printf("Enter name: ");
     fflush(stdin);
     gets(person1.name);
@@ -37,9 +53,8 @@ int main() {
     fflush(stdin);
     printf("Enter Blood group: ");
     gets(person1.bloodGrp);
-    
-    printf("\nEnter info for person2\n");
 
+    printf("\nEnter info for person2\n");
     printf("Enter name: ");
     fflush(stdin);
     gets(person2.name);
@@ -50,7 +65,7 @@ int main() {
     printf("Enter salary: ");
     scanf("%f", &person2.salary);
 
-    fflush(stdin); 
+    fflush(stdin);
     printf("Enter Blood group: ");
     gets(person2.bloodGrp);
 
