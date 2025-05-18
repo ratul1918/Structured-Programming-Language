@@ -1,3 +1,7 @@
+// Function to input new student information
+
+
+
 #include<Stdio.h>
 #include<string.h>
 #include<stdlib.h>
