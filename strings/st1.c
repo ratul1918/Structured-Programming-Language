@@ -13,3 +13,4 @@ int main() {
     printf("string1 = %s\n", str1);
     return 0;
 }
+
