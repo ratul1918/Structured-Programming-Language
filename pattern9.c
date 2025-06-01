@@ -1,3 +1,29 @@
+
+/*
+Write a C program to print a symmetric diamond pattern made of asterisks (*),
+based on the number of rows input by the user.
+
+- The pattern should be symmetric for both odd and even values of rows.
+- The program must adjust the middle point correctly for even/odd cases.
+
+Example Output:
+For rows = 5
+  *  
+ *** 
+*****
+ *** 
+  *
+
+For rows = 6
+   *  
+  *** 
+ ***** 
+ ***** 
+  *** 
+   *  
+*/
+
+
 #include <stdio.h>
 
 int main() {
@@ -41,26 +67,3 @@ int main() {
 
 
 
-/*
-Write a C program to print a symmetric diamond pattern made of asterisks (*),
-based on the number of rows input by the user.
-
-- The pattern should be symmetric for both odd and even values of rows.
-- The program must adjust the middle point correctly for even/odd cases.
-
-Example Output:
-For rows = 5
-  *  
- *** 
-*****
- *** 
-  *
-
-For rows = 6
-   *  
-  *** 
- ***** 
- ***** 
-  *** 
-   *  
-*/
