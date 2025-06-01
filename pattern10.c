@@ -9,7 +9,7 @@ int main() {
 
     // Loop through each row
     for (i = 1; i <= rows; i++) {
-        // Increase k in first half, decrease in second half
+        // Increase k in first half, decrease in second halff
         if (i <= (rows + 1) / 2)
             k++;
         else
