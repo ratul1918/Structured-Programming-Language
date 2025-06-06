@@ -22,6 +22,7 @@ int main() {
                 printf(" "); // Else print space
             }
         }
+        
 
         printf("\n"); // Move to next line after each row
     }
