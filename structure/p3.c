@@ -28,6 +28,7 @@ int main() {
                 count_A++;
             } else {
                 count_B++;
+                
             }
         }
 
