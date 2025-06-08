@@ -27,7 +27,7 @@ struct person {
     char bloodGrp[3];
 };
 
-// Function to display person's details
+// Function to display person's details..
 void display(struct person p) {
     printf("\n--- Person Details ---\n");
     printf("Name       : %s\n", p.name);
