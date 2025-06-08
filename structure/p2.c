@@ -14,6 +14,7 @@
     - If any digit is even, print "SAD".
 */
 
+
 int main() {
     int num;
     scanf("%d", &num);
