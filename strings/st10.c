@@ -2,8 +2,8 @@
 #include <string.h>
 
 int main() {
-    char s1[30];  // First string (destination)
-    char s2[30];  // Second string (source)
+    char s1[30];  // First string (destination)..
+    char s2[30];  // Second string (source)..
 
     printf("Enter the strings: ");
     gets(s1);  // Read first string (unsafe, use fgets in real programs)
