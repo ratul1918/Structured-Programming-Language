@@ -23,6 +23,7 @@ For rows = 6
    *  
 */
 
+
 #include <stdio.h>
 
 int main() {
