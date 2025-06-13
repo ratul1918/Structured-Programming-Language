@@ -46,7 +46,7 @@ int main() {
             }
         }
 
-        // Move to next row
+        // Move to next row...
         printf("\n");
     }
 
