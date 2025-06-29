@@ -3,9 +3,9 @@
 int main() {
     int i, j, k;
 
-    // Outer loop for each row (total 7 rows)
+    // Outer loop for each row (total 7 rows)..
     for(i = 1; i <= 7; i++) {
-        k = 7 - i; // Initialize k to start decreasing values from 6 to 0
+        k = 7 - i; // Initialize k to start decreasing values from 6 to 0..
         
         // Inner loop for each column in a row (total 7 columns)..
         for(j = 1; j <= 7; j++) {
