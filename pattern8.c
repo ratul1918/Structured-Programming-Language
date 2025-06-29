@@ -12,8 +12,6 @@ Rules:
 - Characters start from 'A' each row.
 */
 
-
-
 #include <stdio.h>
 
 int main() {
