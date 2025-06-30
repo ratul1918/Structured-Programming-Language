@@ -15,7 +15,7 @@
 
 int main() {
     char str[50];
-    gets(str);  // Note: gets() is unsafe, consider using fgets() instead
+    gets(str);  // Note: gets() is unsafe, consider using fgets() instead..
     int Level;
     scanf("%d", &Level);
 
