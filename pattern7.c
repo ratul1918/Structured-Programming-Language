@@ -13,6 +13,7 @@ Pattern Details:
 */
 
 
+
 #include <stdio.h>
 
 int main() {
