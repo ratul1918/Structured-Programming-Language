@@ -10,7 +10,6 @@
     - Display the toggled string.
 */
 
-
 #include <stdio.h>
 
 void toggleCase(char str[]) {
