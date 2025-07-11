@@ -6,7 +6,7 @@ int main() {
     int i, vowel, con, digits, word, others;
 
     printf("Enter the string: ");
-    fgets(str, 100, stdin);  // Why is fgets() used instead of gets()? What advantage does it offer?
+    fgets(str, 100, stdin);  // Why is fgets() used instead of gets()? What advantage does it offer?..
 
     // Why are all counters initialized to 0 here?
     i = vowel = con = digits = word = others = 0;
