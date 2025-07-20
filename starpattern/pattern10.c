@@ -1,7 +1,7 @@
 /*
     Question:
-    Write a C program to print a half-diamond pattern of stars (*), where the number of rows is odd.
-    The pattern should first increase in stars until the middle row and then decrease.
+    Write a C program to print a half-diamond pattern of stars (*), where the number of rows is odd..
+    The pattern should first increase in stars until the middle row and then decrease..
 
     Example Input:
     Enter the number of rows: 5
