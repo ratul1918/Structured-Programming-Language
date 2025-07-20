@@ -1,4 +1,4 @@
-// Question: Write a C program to print a left-aligned right-angled triangle pattern using asterisks (*).
+// Question: Write a C program to print a left-aligned right-angled triangle pattern using asterisks (*)
 // The pattern should look like:
 //  * 
 //  * * 
