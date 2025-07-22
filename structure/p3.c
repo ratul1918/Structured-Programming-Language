@@ -1,5 +1,3 @@
-
-
 /*
     Write a C program to determine the winner between characters 'A' and 'B' 
     based on their occurrences in multiple test cases.
