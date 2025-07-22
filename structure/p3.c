@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <string.h>
+
 
 /*
     Write a C program to determine the winner between characters 'A' and 'B' 
@@ -12,6 +11,8 @@
     - If 'A' appears more than 'B', print "A".
     - Otherwise, print "B".
 */
+#include <stdio.h>
+#include <string.h>
 
 int main() {
     int test;
