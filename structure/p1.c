@@ -1,5 +1,3 @@
-
-
 /*
     Write a C program that continuously reads integer inputs from the user until either:
     - the user enters -1, or
