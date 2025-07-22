@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <math.h>
+
 
 /*
     Write a C program that continuously reads integer inputs from the user until either:
@@ -17,6 +16,9 @@
     - Input is terminated by `-1` or non-integer input.
     - Display results in reverse order of input.
 */
+
+#include <stdio.h>
+#include <math.h>
 
 int main() {
     double numbers[1000000];
