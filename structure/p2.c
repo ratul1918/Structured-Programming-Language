@@ -1,5 +1,3 @@
-
-
 /*
     Write a C program that determines if a given number is "HAPPY" or "SAD".
 
