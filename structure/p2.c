@@ -1,4 +1,4 @@
-#include <stdio.h>
+
 
 /*
     Write a C program that determines if a given number is "HAPPY" or "SAD".
@@ -14,6 +14,7 @@
     - If any digit is even, print "SAD".
 */
 
+#include <stdio.h>
 
 int main() {
     int num;
