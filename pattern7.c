@@ -12,8 +12,6 @@ Pattern Details:
 - Spaces are inserted for symmetry.
 */
 
-
-
 #include <stdio.h>
 
 int main() {
