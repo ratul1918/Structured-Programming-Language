@@ -17,7 +17,6 @@ struct student {
    float total_marks;
 };
 
-
 void display_menu1();
 void display_menu2();
 void input_info(struct student std[],int n,int num);
@@ -395,6 +394,7 @@ void retrieve_from_file(struct student std[]) {
     printf("\t\tData has been retrieved from file successfully.\n\n");
     }
 }
+
 
 
 
