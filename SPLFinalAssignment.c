@@ -1,5 +1,4 @@
 // Function to input new student information.
-
 #include<Stdio.h>
 #include<string.h>
 #include<stdlib.h>
@@ -396,5 +395,6 @@ void retrieve_from_file(struct student std[]) {
     printf("\t\tData has been retrieved from file successfully.\n\n");
     }
 }
+
 
 
