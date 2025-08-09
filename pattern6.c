@@ -17,7 +17,6 @@
     - Otherwise, print a space.
 */
 
-
 #include<stdio.h>
 int main(){
     int i,j;
