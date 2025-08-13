@@ -1,4 +1,3 @@
-
 /*
 Write a C program to print a symmetric diamond pattern made of asterisks (*),
 based on the number of rows input by the user.
