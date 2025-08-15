@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
+
 void fun(char str[100]) {
     int i,capital,small,digit;
 
