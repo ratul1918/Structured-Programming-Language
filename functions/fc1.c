@@ -54,7 +54,7 @@ void addStudent(struct Student listOfStudents[], int *numOfStudents) {
     }
 
     printf("Name of the student: ");
-    scanf(" %99[^\n]s", listOfStudents[*numOfStudents].name);  // Avoids getchar and fgets issues...
+    scanf(" %99[^\n]s", listOfStudents[*numOfStudents].name);  // Avoids getchar and fgets issues
 
     printf("ID: ");
     scanf("%d", &listOfStudents[*numOfStudents].id);
