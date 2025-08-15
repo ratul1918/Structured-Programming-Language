@@ -17,7 +17,7 @@ int main() {
     int numOfStudents = 0;
     int choice = 0;
 
-    // Use a while loop to keep displaying the menu until the user exits.
+    // Use a while loop to keep displaying the menu until the user exits
     while (choice != 4) {
         printf("\n1. Add a student\n");
         printf("2. Highest Ranked Student\n");
