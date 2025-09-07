@@ -6,7 +6,7 @@ int main() {
     // Outer loop for rows (1 to 9)
     for (i = 1; i <= 9; i++) {
         // Adjust k value to manage number of digits per row
-        i < 6 ? k++ : k--;  // k increases till row 5, then decreases
+        i < 6 ? k++ : k--;  // k increases till row 5, then decreases 
 
         z = 1;  // z starts at 1 for each row
 
