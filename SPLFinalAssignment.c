@@ -53,7 +53,7 @@ int main(){
    scanf("%d",&option);
    printf("\n");
 
-   switch(option){
+   switch(option){ 
 
      case 1:
          {
@@ -394,6 +394,7 @@ void retrieve_from_file(struct student std[]) {
     printf("\t\tData has been retrieved from file successfully.\n\n");
     }
 }
+
 
 
 
