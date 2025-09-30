@@ -109,7 +109,7 @@ int main(){
 
     case 4:
 
-    marks_display(std,total_std);
+    marks_display(std,total_std); 
 
     break;
 
@@ -394,6 +394,7 @@ void retrieve_from_file(struct student std[]) {
     printf("\t\tData has been retrieved from file successfully.\n\n");
     }
 }
+
 
 
 
