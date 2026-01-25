@@ -21,7 +21,7 @@ Structured-Programming-Language/
 ## 📖 Contents Overview
 
 ### 01_basics
-Basic C programming fundamentals and foundational concepts.
+Basic C programming fundamentals and foundational concepts. 
 
 ### 02_arrays
 **Files:**
