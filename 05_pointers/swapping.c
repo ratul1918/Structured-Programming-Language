@@ -10,7 +10,7 @@ int main(){
 
     temp = *p1;  // Store the value pointed by p1 (i.e., value of x) in temp
     *p1 = *p2;   // Assign value pointed by p2 (i.e., y) to location pointed by p1 (x)
-    *p2 = temp;  // Assign temp (original x) to location pointed by p2 (y)
+    *p2 = temp;  // Assign temp (original x) to location pointed by p2 (y) 
 
     // Print the swapped values of x and y
     printf("x= %d\n", x);
