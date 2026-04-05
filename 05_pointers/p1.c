@@ -6,7 +6,7 @@ int main(){
     int x = 5, y = 10, z = 30;
 
     int *p;         // Declare a pointer to int
-
+ 
     p = &x;         // Pointer p now points to the address of x
     printf("x=%d\n", *p);   // Print the value of x using pointer
     printf("x=%x\n", p);    // Print the address of x in hexadecimal format
