@@ -2,7 +2,7 @@
 
 A comprehensive collection of C programming assignments and practice problems covering fundamental to intermediate programming concepts.
 
-## 📚 Project Structure
+## 📚 Project Structure 
 
 ```
 Structured-Programming-Language/
